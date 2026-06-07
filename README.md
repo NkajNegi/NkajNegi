@@ -1,69 +1,117 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&vCenter=true&lines=Welcome+to+my+Profile!;DevOps+%26+Cloud+Engineer;Automating+Infrastructure;Love+Linux%2C+Docker+%26+K8s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&vCenter=true&width=500&lines=Hi,+I'm+Ashish!+%F0%9F%91%8B;Software+Engineer;Next.js,+React+%26+Node;Full+Stack+%2B+DevOps" alt="Typing SVG" />
 </div>
-
----
 
 <div align="center">
-  <img align="right" width="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img src="https://i.imgflip.com/65efzo.gif" width="100" />
 </div>
 
-### Hi there, I'm Ashish! 👋
-
-I am a passionate **DevOps & Cloud Engineer** focused on building robust CI/CD pipelines and scalable cloud infrastructure. I specialize in automating workflows and managing containerized applications.
-
-- 🔭 I’m currently working on **Kubernetes & Terraform Projects**
-- 🌱 I’m currently learning **Advanced AWS Security & Monitoring**
-- 🐧 I love **Linux, Open Source, and Automation**
-
-<br/>
-
-### 🛠️ Technical Arsenal
-**☁️ Cloud & Infrastructure**
 <br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-**🚀 CI/CD & Automation**
-<br>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
-
-**💻 Languages & Scripting**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/YAML-C23A35?style=for-the-badge&logo=yaml&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-**📊 Monitoring & API**
-<br>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F15B2A?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<br clear="both">
-<br>
+<div align="center">
+  <p><b>Software Engineer</b> specializing in bridging the gap between Full Stack Development and DevOps.<br>I build high-performance, scalable web applications and engineer the robust cloud infrastructure needed to deploy them.</p>
+</div>
 
 ---
-### 📈 GitHub Stats
+
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 What I'm Up To</h3>
+      <ul>
+        <li>🔭 <b>Building:</b> Scalable Next.js apps & real-time tracking systems (Kafka)</li>
+        <li>🌱 <b>Exploring:</b> Advanced Backend Architecture & AI/Data Science</li>
+        <li>⚡ <b>Core Focus:</b> Python, Next.js, PostgreSQL, Docker & Kubernetes</li>
+        <li>📫 <b>Ask me about:</b> CI/CD pipelines, containerization, and React</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🏆 GitHub Trophies</h3>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=NkajNegi&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=3" alt="Trophies" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+
+<table align="center" width="100%" border="0" style="border: none;">
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <b>💻 Languages & Full Stack</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express&theme=dark" alt="Languages & Full Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br><b>🗄️ Backend & Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,kafka&theme=dark" alt="Backend & Databases" />
+    </td>
+     <td width="50%" align="center" valign="top">
+      <b>☁️ Cloud, DevOps & Infrastructure</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,nginx&theme=dark" alt="Cloud & DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br><b>🚀 CI/CD, Automation & Scripting</b><br><br>
+      <img src="https://skillicons.dev/icons?i=jenkins,ansible,githubactions,bash&theme=dark" alt="CI/CD & Scripting" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br><b>📊 Monitoring & API</b><br><br>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana,postman&theme=dark" alt="Monitoring & API" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">📈 GitHub Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/NkajNegi">
+    <img src="https://github-readme-stats.vercel.app/api?username=NkajNegi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/NkajNegi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkajNegi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">📈 GitHub Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/NkajNegi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NkajNegi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/NkajNegi">
+    <img src="https://github-readme-stats.vercel.app/api?username=NkajNegi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/NkajNegi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkajNegi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmnda/kmnda/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmnda/kmnda/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/kmnda/kmnda/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NkajNegi/NkajNegi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NkajNegi/NkajNegi/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/NkajNegi/NkajNegi/output/github-snake.svg" />
   </picture>
-  
   <br>
-
   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmnda/kmnda/output/pacman-contribution-graph-dark.svg">
-    <img alt="Pacman animation" src="https://raw.githubusercontent.com/kmnda/kmnda/output/pacman-contribution-graph.svg" />
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NkajNegi/NkajNegi/output/pacman-contribution-graph-dark.svg">
+    <img alt="Pacman animation" src="https://raw.githubusercontent.com/NkajNegi/NkajNegi/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
